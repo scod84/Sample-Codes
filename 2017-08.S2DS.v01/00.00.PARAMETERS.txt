@@ -1,0 +1,4 @@
+# parameters to change to run the scripts: these are read by all the scripts: note: write without spaces in the first column
+2017-08-01  = YYYY-MM-DD day closer to us
+2017-01-01  = YYYY-MM-DD day further in the past
+30         = period to analyze: 1, 7 or 30 days 
